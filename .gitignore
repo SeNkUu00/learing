@@ -1,0 +1,9 @@
+AppData/
+*.log
+*.tmp
+*.lock
+.vscode/
+*.exe
+*.out
+build/
+node_modules/
