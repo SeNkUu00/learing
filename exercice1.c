@@ -19,7 +19,7 @@ int main()
     printf("email..");
     scanf("%s", email);
 
-    printf("\nyour information is\n");
+    printf("\nyour information are\n");
     printf("\nname > %s\n", name);
     printf("\nprenom > %s\n", prenom);
     printf("\nage > %i\n", age);
